@@ -4,6 +4,9 @@
 #     https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
 
+
+content/data/ghost-local.db
+content/themes/casper
 current
 config.development.json
 # Node artifact files
